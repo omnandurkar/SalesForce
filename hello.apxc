@@ -1,0 +1,5 @@
+public class LP {
+    public static void main(){
+        system.debug('Hello') ;
+    }
+}
